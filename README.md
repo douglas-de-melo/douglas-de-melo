@@ -2,7 +2,6 @@
 
 - ⚡ Buscando novos desafios como desenvolvedor Front-end
 - 🌱 Estudando HTML5, CSS3, JAVASCRIPT
-- 😄 Pronomes: ele/dele
 
 
 <div style="display: inline_block"><br>
