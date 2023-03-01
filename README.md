@@ -1,4 +1,4 @@
-### Olá eu sou DougMelo 👋
+### Olá! sou DougMelo 👋
 
 - ⚡ Buscando novos desafios como desenvolvedor Front-end
 - 🌱 Estudando HTML5, CSS3, JAVASCRIPT
