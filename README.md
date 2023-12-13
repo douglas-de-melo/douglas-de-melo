@@ -1,4 +1,4 @@
-### Olá! sou DougMelo 👋
+### Olá! sou Douglas de Melo 👋
 
 - ⚡ Buscando novos desafios como desenvolvedor Web Full-Stack
 - 🌱 Não coloque limites nos seu sonhos, coloque Foco, Força e Fé!!!
