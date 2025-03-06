@@ -1,6 +1,6 @@
 ### Olá! sou Douglas de Melo 👋
 
-- ⚡ Buscando novos desafios como desenvolvedor Front End
+- ⚡ Buscando novos desafios como Desenvolvedor Front End.
 - 🌱 Não coloque limites nos seu sonhos, coloque Foco, Força e Fé!!!
 
 
