@@ -1,6 +1,6 @@
 ### Olá! sou Douglas de Melo 👋
 
-- ⚡ Buscando novos desafios como desenvolvedor Web Full-Stack
+- ⚡ Buscando novos desafios como desenvolvedor Front End
 - 🌱 Não coloque limites nos seu sonhos, coloque Foco, Força e Fé!!!
 
 
