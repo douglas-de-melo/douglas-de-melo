@@ -1,6 +1,6 @@
 <!-- Logo no topo -->
 <div align="center">
-  <img src="logo" alt="Logo Douglas de Melo /developer" width="150"/>
+  <img src="..logo.png" alt="Logo Douglas de Melo /developer" width="150"/>
   
   # 👋 Olá, eu sou o Douglas!
 </div>
@@ -10,7 +10,7 @@
 🚀 Em transição de carreira para tecnologia, apaixonado por desenvolvimento web e sempre aprendendo coisas novas.  
 Aqui você vai encontrar projetos em que estou praticando e evoluindo minhas habilidades como **Front-End Developer**.  
 
-## 🛠️ Tecnologias que uso no dia a dia
+## 🛠️ Tecnologias que uso e estudo no dia a dia!
 
 <div align="center" style="display: flex; gap: 15px; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50"/>
@@ -19,15 +19,17 @@ Aqui você vai encontrar projetos em que estou praticando e evoluindo minhas hab
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" title="WordPress" alt="WordPress" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="50"/>
 </div>
 
 ## 📌 Sobre mim
 
 - 🎓 Formando em **Análise e Desenvolvimento de Sistemas**  
-- 💻 Atualmente estudando **Front-End** (React, TypeScript e boas práticas)  
-- 🔎 Buscando oportunidade como **Dev Júnior** ou estágio em tecnologia  
+- 💻 Atualmente estudando **Front-End** (HTML, CSS, JavaScript e boas práticas)  
+- 🔎 Buscando oportunidade como **Dev Júnior**. 
 
 ---
 
 ✨ Sinta-se à vontade para explorar meus repositórios e trocar uma ideia comigo!  
+
 
