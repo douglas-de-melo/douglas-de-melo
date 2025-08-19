@@ -1,6 +1,6 @@
 <!-- Logo no topo -->
 <div align="center">
-  <img src="img/doug.png" alt="Logo Douglas de Melo /developer" width="150"/>
+  <img src="img/doug.png" alt="Logo Douglas de Melo /developer" width="300"/>
   
   # 👋 Olá, eu sou o Douglas!
 </div>
