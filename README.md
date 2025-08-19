@@ -5,7 +5,7 @@
 
 
 <div style="display: inline_block"><br>
- <img align="center" alt="VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">      
+ <img align="center" alt="VS" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg](https://www.google.com/search?q=vscode&sca_esv=ac435d3c33422e6e&udm=2&tbs=isz:i,sur:ol&sxsrf=AE3TifO_Frm3HBSzkj3gW6VcmB8AIR0tCQ:1755642523456&source=lnt&sa=X&ved=2ahUKEwi5idqH9pePAxWHq5UCHQ7wNcYQpwV6BAgDEB4&biw=1920&bih=919&dpr=1#vhid=IN6NfYeVZNRP4M&vssid=mosaic)">      
  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
