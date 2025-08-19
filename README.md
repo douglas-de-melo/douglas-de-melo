@@ -1,21 +1,33 @@
-### Olá! sou Douglas de Melo 👋
-
-- ⚡ Buscando novos desafios como Desenvolvedor Front End.
-- 🌱 Não coloque limites nos seu sonhos, coloque Foco, Força e Fé!!!
-
-
-<div style="display: inline_block"><br>
- <img align="center" alt="VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">      
- <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
- <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
- <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-
-##
-
-<div> 
-  <a href="https://www.instagram.com/dougmelo2017/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/douglas-melo-30b36822a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<!-- Logo no topo -->
+<div align="center">
+  <img src="logo" alt="Logo Douglas de Melo /developer" width="150"/>
+  
+  # 👋 Olá, eu sou o Douglas!
 </div>
+
+---
+
+🚀 Em transição de carreira para tecnologia, apaixonado por desenvolvimento web e sempre aprendendo coisas novas.  
+Aqui você vai encontrar projetos em que estou praticando e evoluindo minhas habilidades como **Front-End Developer**.  
+
+## 🛠️ Tecnologias que uso no dia a dia
+
+<div align="center" style="display: flex; gap: 15px; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" title="WordPress" alt="WordPress" width="50"/>
+</div>
+
+## 📌 Sobre mim
+
+- 🎓 Formando em **Análise e Desenvolvimento de Sistemas**  
+- 💻 Atualmente estudando **Front-End** (React, TypeScript e boas práticas)  
+- 🔎 Buscando oportunidade como **Dev Júnior** ou estágio em tecnologia  
+
+---
+
+✨ Sinta-se à vontade para explorar meus repositórios e trocar uma ideia comigo!  
+
