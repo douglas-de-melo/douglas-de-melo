@@ -1,5 +1,7 @@
 <!-- Logo no topo -->
 <div align="center">
+  <img src="img/doug.png" alt="Logo Douglas de Melo /developer" width="150"/>
+  
   # 👋 Olá, eu sou o Douglas!
 </div>
 
