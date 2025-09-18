@@ -18,7 +18,7 @@ Aqui você vai encontrar projetos em que estou praticando e evoluindo minhas hab
 ## 📌 Sobre mim
 
 - 🎓 Formando em **Análise e Desenvolvimento de Sistemas**  
-- 💻 Atualmente estudando **Front-End** (React, TypeScript e boas práticas)  
+- 💻 Atualmente estudando **Front-End** (HTML, CSS, JavaScript e boas práticas)  
 - 🔎 Buscando oportunidade como **Dev Júnior** ou estágio em tecnologia  
 
 ---
